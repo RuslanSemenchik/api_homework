@@ -3,37 +3,37 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fiat_Tempra_SX_%2793.jpg/400px-Fiat_Tempra_SX_%2793.jpg",
         "title": "Fiat Tempra",
         "start_production": 1990,
-        "class": "Family car"
+        "clas": "Family car"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Opel_Calibra_front_20071007.jpg/400px-Opel_Calibra_front_20071007.jpg",
         "title": "Opel Calibra",
         "start_production": 1989,
-        "class": "Coupé"
+        "clas": "Coupé"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2001-2005_Peugeot_307_%28T5%29_5-door_hatchback_%282011-03-10%29.jpg/400px-2001-2005_Peugeot_307_%28T5%29_5-door_hatchback_%282011-03-10%29.jpg",
         "title": "Peugeot 307",
         "start_production": 2001,
-        "class": "Small family car"
+        "clas": "Small family car"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2005_Peugeot_407_ST_HDi_Executive_sedan_%282015-07-09%29_01.jpg/400px-2005_Peugeot_407_ST_HDi_Executive_sedan_%282015-07-09%29_01.jpg",
         "title": "Peugeot 407",
         "start_production": 2004,
-        "class": "Large family car"
+        "clas": "Large family car"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Simca_Chrysler_Horizon_GLS_1979.jpg/400px-Simca_Chrysler_Horizon_GLS_1979.jpg",
         "title": "Simca-Talbot Horizon",
         "start_production": 1978,
-        "class": "Subcompact"
+        "clas": "Subcompact"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/OPEL-VAUX-SINTRA-A.jpg/400px-OPEL-VAUX-SINTRA-A.jpg",
         "title": "Opel Sintra",
         "start_production": 1996,
-        "class": "Large MPV"
+        "clas": "Large MPV"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fiat_Stilo_front_20080711.jpg/400px-Fiat_Stilo_front_20080711.jpg",
@@ -45,25 +45,25 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ford_Fairmont_sedan_2.jpg/400px-Ford_Fairmont_sedan_2.jpg",
         "title": "Ford Fairmont",
         "start_production": 1978,
-        "class": "Compact"
+        "clas": "Compact"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/1990_Dodge_Omni.JPG/400px-1990_Dodge_Omni.JPG",
         "title": "Dodge Omni",
         "start_production": 1977,
-        "class": "Subcompact"
+        "clas": "Subcompact"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/00-02_Saturn_L-Series_sedan.jpg/400px-00-02_Saturn_L-Series_sedan.jpg",
         "title": "Saturn L-Series",
         "start_production": 1999,
-        "class": "Mid-size"
+        "clas": "Mid-size"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Saturn_Ion_--_07-09-2009.jpg/400px-Saturn_Ion_--_07-09-2009.jpg",
         "title": "Saturn Ion",
         "start_production": 2002,
-        "class": "Compact car"
+        "clas": "Compact car"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/1996-1999_Saturn_SL2_--_03-16-2012.JPG/400px-1996-1999_Saturn_SL2_--_03-16-2012.JPG",
@@ -75,25 +75,25 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chrysler_E_Class%2C_1984.png/400px-Chrysler_E_Class%2C_1984.png",
         "title": "Chrysler E-Class",
         "start_production": 1982,
-        "class": "Mid-size"
+        "clas": "Mid-size"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Plymouth_Caravelle%2C_83-85.png/400px-Plymouth_Caravelle%2C_83-85.png",
         "title": "Plymouth Caravelle",
         "start_production": 1985,
-        "class": "Mid-size"
+        "clas": "Mid-size"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/1984_Dodge_600_ES_Turbo.jpg/400px-1984_Dodge_600_ES_Turbo.jpg",
         "title": "Dodge 600",
         "start_production": 1983,
-        "class": "Mid-size"
+        "clas": "Mid-size"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%2782_Dodge_400_Coupe_%28Orange_Julep%29.JPG/400px-%2782_Dodge_400_Coupe_%28Orange_Julep%29.JPG",
         "title": "Dodge 400",
         "start_production": 1981,
-        "class": "Mid-size"
+        "clas": "Mid-size"
     }
    
 ]
